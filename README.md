@@ -1,3 +1,10 @@
+# Hertz Network
+
+## Welcome to the Hertz Network source code repository! 
+
+This software enables businesses to rapidly build and deploy high-performance and high-security blockchain-based applications. 
+Hertz Network is an EVM compatible chain built on Go Ethereum
+
 ## Go Ethereum
 
 Official Golang implementation of the Ethereum protocol.
